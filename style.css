@@ -1,0 +1,124 @@
+
+#div1{
+    background-color: black;
+    
+    width: 100%;
+    border: 1px solid rgb(148, 148, 179);
+    display: flex;
+}
+
+#div2{
+    background-color: black;
+     
+}
+
+#div3{
+    background-color: black;
+      height: 50px;
+}
+.h324{
+    /* text-align: left; */
+    text-transform: bold;
+    color: white;
+   padding-top: 0;
+   
+   width: 20%;
+padding-left: 20px;
+    
+   
+
+}
+
+.pages{
+    text-align: center;
+   
+    width: 40%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+   
+  /* display: flex; */
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+#butt{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(10, 123, 152);
+    border-radius: 19px;
+    background-color:rgb(10, 123, 152) ;
+    width: 100px;
+height: 40px;
+margin: auto;
+}
+
+.h324:hover{
+    background-color: rgb(255, 160, 82);
+    color: white;
+    font-size: 19px;
+   
+}
+
+#a1:hover{
+background-color: rgb(255, 160, 82);
+color: white;
+font-size: 25px;
+
+}
+#a2:hover{
+    background-color: rgb(255, 160, 82);
+    color: white;
+    font-size: 25px;
+}
+
+#a3:hover{
+    background-color: rgb(255, 160, 82);
+    color: white;
+    font-size: 25px;
+}
+
+#butt:hover{
+    background-color: rgb(255, 160, 82);
+    color: white;
+    font-size: 25px;
+}
+.pages2{
+    text-align: center;
+   
+    width: 20%;
+    text-align: center;
+    align-items:left;
+    margin-left: 20px;
+   
+ 
+}
+.pages3{
+    text-align: center;
+   
+    width: 40%;
+    text-align: right;
+    align-items: right;
+    margin: auto;
+    margin-right: 20px;
+   
+
+}
+#butt2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(10, 123, 152);
+    border-radius: 19px;
+    background-color:rgb(10, 123, 152) ;
+    width: 100px;
+height: 40px;
+
+}
+#butt2:hover{
+    background-color: rgb(255, 160, 82);
+    color: white;
+    font-size: 25px;
+}
